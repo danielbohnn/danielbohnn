@@ -7,7 +7,7 @@
 </div>
 
 <div>
-    
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
 </div>
 
 ##
