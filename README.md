@@ -2,6 +2,7 @@
 
 <div>
     📔 - Atualmente estou estudando Ciência da Computação
+    <br>
     📝 - Atualmente estou focado em projetos Back-End em JavaScript
 </div>
 
