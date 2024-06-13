@@ -5,9 +5,6 @@
     <br>
     📝 - Focado em projetos Back-End em JavaScript
 </div>
-##
-
-![Daniel Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=transparent)
 
 ##
 <div>
@@ -15,6 +12,9 @@
     <img src="https://skillicons.dev/icons?i=html" / style="height:40px; width:40px;">
     <img src="https://skillicons.dev/icons?i=css" / style="height:40px; width:40px;">
 </div>
+
+##
+![Daniel Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=transparent)
 
 ##
 <div>
