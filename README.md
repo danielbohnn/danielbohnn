@@ -5,14 +5,15 @@
     <br>
     📝 - Focado em projetos Back-End em JavaScript
 </div>
+
+<img src="https://camo.githubusercontent.com/1aad9f0a69af41defdef5ed48d3e441f5a6dd1e2a8eb0080e6be19a2867aea6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7661726961626c656265652673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="danielbohnn GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=danielbohnn&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
+
 <br>
 <div>
     <img src="https://skillicons.dev/icons?i=js" / style="height:40px; width:40px;">
     <img src="https://skillicons.dev/icons?i=html" / style="height:40px; width:40px;">
     <img src="https://skillicons.dev/icons?i=css" / style="height:40px; width:40px;">
 </div>
-
-<img src="https://camo.githubusercontent.com/1aad9f0a69af41defdef5ed48d3e441f5a6dd1e2a8eb0080e6be19a2867aea6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7661726961626c656265652673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="VariableBee GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=variablebee&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
 
 ##
 <div>
