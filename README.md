@@ -1,13 +1,14 @@
 ## Olá! 👋
 
 <div>
-    📔 - Atualmente estou estudando Ciência da Computação
+    📔 - Atualmente estou estudando Ciência da Computação - Unilasalle
     <br>
     📝 - Focado em projetos Back-End em JavaScript
 </div>
 
-![Daniel Dick Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=radical)
-
+<div>
+    ![Daniel Dick Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=radical)
+</div>
 <br>
 <div>
     <img src="https://skillicons.dev/icons?i=js" / style="height:40px; width:40px;">
