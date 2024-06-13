@@ -3,7 +3,7 @@
 <div>
     📔 - Atualmente estou estudando Ciência da Computação - Unilasalle
     <br>
-    📝 - Focado em projetos Back-End em JavaScript
+    📝 - Focado em projetos Back-End
 </div>
 <br>
 <div>
