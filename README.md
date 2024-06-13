@@ -7,7 +7,7 @@
 </div>
 
 
-    ![Daniel Dick Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=radical)
 
 <br>
 <div>
