@@ -12,6 +12,8 @@
     <img src="https://skillicons.dev/icons?i=css" / style="height:40px; width:40px;">
 </div>
 
+<img src="https://camo.githubusercontent.com/1aad9f0a69af41defdef5ed48d3e441f5a6dd1e2a8eb0080e6be19a2867aea6b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7661726961626c656265652673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="VariableBee GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=variablebee&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
+
 ##
 <div>
     <a href="https://wa.me/5551985298223" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
