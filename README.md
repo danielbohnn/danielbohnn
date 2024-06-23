@@ -15,9 +15,7 @@
 </div>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbohnn&layout=compact,html&theme=tokyonight)](https://github.com/danielbohnn/github-readme-stats)
-
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbohnn&hide=javascript,css,scss,html&theme=tokyonight)
 ##
 <div>
     <a href="https://wa.me/5551985298223" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
