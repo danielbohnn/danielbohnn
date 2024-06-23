@@ -15,7 +15,7 @@
 </div>
 
 ##
-![Daniel Bohn GitHub status](https://github-readme-stats.vercel.app/api?username=danielbohnn&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbohnn&layout=compact)](https://github.com/danielbohnn/github-readme-stats)
 
 ##
 <div>
