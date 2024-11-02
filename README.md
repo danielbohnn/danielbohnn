@@ -10,6 +10,7 @@
 <br>
 <div>
     <img src="https://skillicons.dev/icons?i=js" / style="height:40px; width:40px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" / style="height:40px; width:40px;">
     <img src="https://skillicons.dev/icons?i=python" / style="height:40px; width:40px;">
     <img src="https://skillicons.dev/icons?i=django" / style="height:40px; width:40px;">
 </div>
