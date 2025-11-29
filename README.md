@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Daniel+Bohn;Trabalho+com+Monday.com)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Meu+nome+%C3%A9+Daniel+Bohn;Trabalho+com+Monday.com" alt="Typing SVG" /></a>
 
 <div>
     📔 - Atualmente estou estudando Ciência da Computação - Unilasalle.
